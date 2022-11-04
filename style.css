@@ -1,0 +1,52 @@
+#inizio {
+   width:100%;
+   background-color:beige;
+   font-size: 50px;
+   padding-bottom:10px;
+   padding-left:10px;
+}
+p{
+    margin-bottom:0 !important;
+}
+#fascia{
+    background-color: beige;
+    padding:10px;
+    border:1px solid black;
+}
+
+.sport {
+  font-size: 30px;
+  margin-top: 0;
+}
+
+
+
+.riga{
+    display:flex;
+}
+
+.colonna {
+    flex:50%;
+    padding:10px;
+}
+
+.colonna33 {
+  flex: 33.33%;
+  padding:10px;
+}
+
+.audio {
+  padding:10px;
+}
+
+.prima{
+    background-color: aqua;
+}
+
+.seconda{
+    background-color: azure;
+}
+
+#immagine{
+    height:250;
+}
